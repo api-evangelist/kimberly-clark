@@ -1,0 +1,7 @@
+aid: kimberly-clark
+url: https://raw.githubusercontent.com/api-evangelist/kimberly-clark/refs/heads/main/apis.yml
+modified: '2026-03-21'
+apis: []
+common:
+  - type: Website
+    url: https://www.kimberly-clark.com

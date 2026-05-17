@@ -6,7 +6,7 @@ description: >-
   and Pull-Ups. No public APIs or developer portal have been identified for
   Kimberly-Clark; this repository tracks corporate, supplier, and integration
   surfaces for ongoing API discovery.
-type: Contract
+kind: contract
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Consumer Goods

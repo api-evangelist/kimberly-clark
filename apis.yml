@@ -21,6 +21,10 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/kimberly-clark
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/kimberly-clark
   - type: Website
     url: https://www.kimberly-clark.com
   - type: Brands

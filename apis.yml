@@ -7,7 +7,7 @@ description: >-
   Kimberly-Clark; this repository tracks corporate, supplier, and integration
   surfaces for ongoing API discovery.
 kind: contract
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Consumer Goods
   - Consumer Products

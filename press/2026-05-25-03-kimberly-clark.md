@@ -1,7 +1,9 @@
 ---
 title: Kimberly-Clark
 url: https://www.facebook.com/KimberlyClarkCorp/posts/during-kimberly-clarks-investor-day-the-company-shares-strategic-plans-for-growt/806585564841925/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Kimberly-Clark" press release artificial intelligence'
 position: 3
 source: serpapi-google

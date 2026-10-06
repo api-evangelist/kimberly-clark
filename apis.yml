@@ -42,10 +42,12 @@ x-api-posture: no-product-api
 x-api-posture-basis: observed
   https://raw.githubusercontent.com/api-evangelist/kimberly-clark/refs/heads/main/apis.yml
 created: '2026-03-21'
-modified: '2026-04-28'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://www.news.kimberly-clark.com/press-releases?pagetemplate=rss
+    type: BlogRSS
   - type: DomainSecurity
     url: security/kimberly-clark-domain-security.yml
   - type: GitHubOrganization
